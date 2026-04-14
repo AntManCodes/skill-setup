@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Anton/.claude/plugins/cache/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/**)",
+      "Bash(python cli/assets/scripts/search.py \"pizzeria restaurant warm elegant modern\" --design-system -p \"Slice of Heaven\" -f markdown)",
+      "mcp__stitch__create_project",
+      "mcp__stitch__generate_screen_from_text",
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(command -v infsh)",
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Bash(where node *)",
+      "Bash(node *)",
+      "mcp__stitch__fetch_screen_code"
+    ]
+  }
+}
